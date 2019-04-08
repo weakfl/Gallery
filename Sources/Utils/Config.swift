@@ -106,6 +106,10 @@ public struct Config {
     public struct CloseButton {
       public static var tintColor: UIColor = UIColor(red: 109/255, green: 107/255, blue: 132/255, alpha: 1)
     }
+
+    public struct CloseButton {
+      public static var tintColor: UIColor = UIColor(red: 109/255, green: 107/255, blue: 132/255, alpha: 1)
+    }
   }
 
   public struct Font {
